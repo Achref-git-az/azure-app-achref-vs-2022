@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "azure-app-achref/1.0.0": {
+        "runtime": {
+          "azure-app-achref.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure-app-achref/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

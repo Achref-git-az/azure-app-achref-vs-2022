@@ -1,0 +1,7 @@
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\azure-app-achref.exe
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\appsettings.Development.json
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\appsettings.json
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\azure-app-achref.dll
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\azure-app-achref.deps.json
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\azure-app-achref.runtimeconfig.json
+C:\Users\sakka\OneDrive\Bureau\projet\udemy\azure\azure-app-achref\publish\azure-app-achref.pdb
