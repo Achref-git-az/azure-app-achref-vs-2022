@@ -6,7 +6,42 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome My friend</h1>
-    Welcome to azure app service - this update is for github actions deployed in azure app service
+    
 
     <h3> @ViewData["Greeting"]</h3>
+
+    <h1 style="color: cadetblue">Jokes :</h1>
+    <div class="joke">
+        <p class="question" >Why don't scientists trust atoms?</p>
+        <p>Because they make up everything!</p>
+    </div>
+    <div class="joke">
+        <p class="question">Why did the scarecrow win an award?</p>
+        <p>Because he was outstanding in his field!</p>
+    </div>
+    <div class="joke">
+        <p class="question">Why don't skeletons fight each other?</p>
+        <p>They don't have the guts!</p>
+    </div>
 </div>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        color: #333;
+    }
+
+    .joke {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 600px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .question {
+        color: crimson;
+    }
+</style>
