@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2025-01-23T19:13:07.0105612Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2025-01-23T19:13:11.7792776Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-group-rg"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "578992b2-249c-4f5c-811e-cb6b281f69ba"
+    }
+  }
+}

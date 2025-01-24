@@ -1,10 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_achref</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/578992b2-249c-4f5c-811e-cb6b281f69ba/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-achref-vs</ApplicationInsightsResourceId>
+    <UserSecretsId>0e79952d-bc74-4251-a371-7b6b963eb432</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 
 </Project>
